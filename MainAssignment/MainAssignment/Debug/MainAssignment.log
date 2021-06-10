@@ -1,0 +1,17 @@
+﻿  main.c
+c:\users\foca\source\repos\mainassignment\mainassignment\readlines.h(3): warning C4255: 'read_lines': no function prototype given: converting '()' to '(void)'
+c:\users\foca\source\repos\mainassignment\mainassignment\newlist.h(3): warning C4255: 'new_list': no function prototype given: converting '()' to '(void)'
+c:\users\foca\source\repos\mainassignment\mainassignment\addstudent.h(3): warning C4255: 'add_student': no function prototype given: converting '()' to '(void)'
+c:\users\foca\source\repos\mainassignment\mainassignment\addteacher.h(3): warning C4255: 'add_teacher': no function prototype given: converting '()' to '(void)'
+c:\users\foca\source\repos\mainassignment\mainassignment\addcourse.h(3): warning C4255: 'add_course': no function prototype given: converting '()' to '(void)'
+c:\users\foca\source\repos\mainassignment\mainassignment\addcourse.h(3): warning C4431: missing type specifier - int assumed. Note: C no longer supports default-int
+c:\users\foca\source\repos\mainassignment\mainassignment\addcourse.h(3): warning C4218: nonstandard extension used: must specify at least a storage class or a type
+c:\users\foca\source\repos\mainassignment\mainassignment\addenrolment.h(3): warning C4255: 'add_enrolment': no function prototype given: converting '()' to '(void)'
+c:\users\foca\source\repos\mainassignment\mainassignment\addassignment.h(3): warning C4255: 'add_assignment': no function prototype given: converting '()' to '(void)'
+c:\users\foca\source\repos\mainassignment\mainassignment\main.c(46): warning C4255: 'main': no function prototype given: converting '()' to '(void)'
+c:\users\foca\source\repos\mainassignment\mainassignment\main.c(90): warning C4710: 'int printf(const char *const ,...)': function not inlined
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\stdio.h(946): note: see declaration of 'printf'
+c:\users\foca\source\repos\mainassignment\mainassignment\main.c(90): warning C4710: 'int scanf(const char *const ,...)': function not inlined
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\stdio.h(1272): note: see declaration of 'scanf'
+  MainAssignment.vcxproj -> C:\Users\foca\source\repos\MainAssignment\Debug\MainAssignment.exe
+  MainAssignment.vcxproj -> C:\Users\foca\source\repos\MainAssignment\Debug\MainAssignment.pdb (Partial PDB)
